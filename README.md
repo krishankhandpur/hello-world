@@ -1,2 +1,2 @@
 # hello-world
-git gud
+Party on dudes! \m/
